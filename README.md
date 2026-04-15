@@ -38,7 +38,7 @@ Kontrak telah berhasil diuji coba dengan fungsi `post_content`:
 - **Price**: 5
 
 **Screenshot Berhasil:**
-![Screenshot Invoke](screenshot-invoke.png)
+![Screenshot Invoke](screenshoot-invoke.png)
 
 ## 🚀 Cara Menjalankan & Menguji
 

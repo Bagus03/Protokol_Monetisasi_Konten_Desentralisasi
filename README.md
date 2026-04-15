@@ -32,7 +32,7 @@ Berbeda dengan aplikasi catatan (notes) sederhana, Soroban Gatekeeper mengimplem
 - **Explorer**: [Lihat di Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CAFWQWYZXNOWXABHSSNXLKNN6IGAWYC6IXFSY7CW5IWIJIH2UVJGFDNT)
   
 **Screenshot Berhasil:**
-![Screenshot deploy](screenshoot-deploy.png)
+![Screenshot deploy](screenshot-deploy.png)
 
 ## 📝 Hasil Uji Coba (Invoke)
 Kontrak telah berhasil diuji coba dengan fungsi `post_content`:
